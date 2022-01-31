@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jensen</h1>
 <h3 align="center">A passionate computer science student from England.</h3>
 
-- 🔭 I’m currently working on [Advent of Code 2021](https://github.com/Jensen6842/advent-of-code-2021)
+- 🔭 I’m currently working on [ENG1 Team Project](https://github.com/uoy-jb2501/ENG1-Pirate-Game)
 
 - 🌱 I’m currently learning **C and Haskell**
 
