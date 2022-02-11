@@ -7,6 +7,8 @@
 
 - 😄 Pronouns: He/They
 
+- Any repositories in the format such as 'THE1' or 'CCCP' are my code from taught modules at the University of York.
+
 <p align="left">
 </p>
 
