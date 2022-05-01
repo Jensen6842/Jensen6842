@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jensen</h1>
 <h3 align="center">A passionate computer science student from England.</h3>
 
-- 🔭 I’m currently working on [UoY ENG1 Team Project](https://github.com/ENG1-Team-29/Assessment-2)
+- 🔭 I’m currently working on [UoY INT2 Team Project](https://github.com/INT2-Group-36/group-assessment)
 
-- 🌱 I’m currently learning **C and Haskell**
+- 🌱 I’m currently learning **Haskell**
 
 - 😄 Pronouns: He/They
 
