@@ -10,9 +10,9 @@
 <p align="left">
 </p>
 
-<img align="left" width="46%" src="https://github-readme-stats.vercel.app/api?username=Jensen6842&count_private=true&theme=radical&show_icons=true" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Jensen6842&count_private=true&theme=radical&show_icons=true" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jensen6842&layout=compact&hide=jupyter%20notebook,html,scss" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jensen6842&layout=compact&theme=radical&hide=jupyter%20notebook,html,scss" />
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
