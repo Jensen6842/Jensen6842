@@ -22,3 +22,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ENG1-Team-29&repo=Assessment-1)](https://github.com/ENG1-Team-29/Assessment-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ENG1-Team-29&repo=Assessment-2)](https://github.com/ENG1-Team-29/Assessment-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=INT2-Group-36&repo=group-assessment)](https://github.com/INT2-Group-36/group-assessment)
