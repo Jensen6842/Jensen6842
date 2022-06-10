@@ -1,11 +1,7 @@
 # Hi there, I'm Jensen! 👋
-- 🔭 I’m currently working on **[INT2 Team Project: CNNs](https://github.com/INT2-Group-36/group-assessment)**
-
-- 🌱 I’m currently learning **Haskell and TensorFlow**
-
 - 😄 Pronouns: **He/They**
 
-- 💻 Any repositories in the format such as 'THE1' or 'CCCP' are my code from taught modules at the [University of York](https://www.york.ac.uk/).
+- 💻 Any repositories names that are 4 character acronyms are for taught modules at the [University of York](https://www.york.ac.uk/).
 
 <p align="left">
 </p>
